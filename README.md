@@ -2,7 +2,7 @@
 
 🎓 Engineering Student | AI/ML & Data Enthusiast  
 🤖 Building real-world AI systems & data-driven applications  
-📊 Python | SQL | Machine Learning | Data Visualization  
+📊 Python | Data scenience | SQL | Machine Learning | Data Visualization  
 
 ---
 
